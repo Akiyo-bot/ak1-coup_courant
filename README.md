@@ -1,6 +1,9 @@
 # ak1-coup_courant
 Un script pour couper le courant FiveM
 
+Requis :
+  -[vSync (meteo script)](https://github.com/DevTestingPizza/vSync)
+
 ## Non ouverte
 
 ***Pour l'item executer cette commande sur votre phpmyadmin***
