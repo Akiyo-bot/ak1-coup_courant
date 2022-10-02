@@ -14,3 +14,4 @@ INSERT INTO items (`name`, `label`, `limit`, `rare`, `can_remove`, `desc`) VALUE
 
 Credits :
   - [Menu & Script : Akyio](https://github.com/Akiyo-bot)
+  - [vMenu : TomGrobbe](https://github.com/TomGrobbe/vMenu)
