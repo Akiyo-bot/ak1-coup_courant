@@ -3,10 +3,10 @@
 fx_version "adamant"
 games {"gta5"}
 
-version '1.0.0'
+version '1.3.1'
 author 'Akiyo'
 description 'Simple Fivem script for cut power, Create for WanhAki (https://discord.gg/tKJGHadsVX)'
-repository 'https://github.com/Akiyo-bot/ak1-radio'
+repository 'https://github.com/Akiyo-bot/ak1-coup_courant'
 
 
 client_scripts {
@@ -31,8 +31,4 @@ server_scripts {
 	'config.lua',
     "server/*.lua",
 	'locales/*.lua',
-}
-
-dependencies {
-	"pma-voice",
 }
