@@ -2,7 +2,7 @@
 Un script pour couper le courant FiveM
 
 Requis :
-  -[vSync (meteo script)](https://github.com/DevTestingPizza/vSync)
+  - [vSync (meteo script)](https://github.com/DevTestingPizza/vSync)
 
 ## Non ouverte
 
